@@ -27,6 +27,6 @@ To run these program follow the steps below:
   + chmod +x fortune.sh
   + chmod +x five.sh
 - Run the following function to start the programs
-  '''
+  ```
   ./five.sh
-  '''
+  ```
